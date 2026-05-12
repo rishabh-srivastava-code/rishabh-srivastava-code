@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Rishabh+Srivastava+%F0%9F%91%8B;Backend+Engineer+%7C+6%2B+Years+Experience;Node.js+%7C+TypeScript+%7C+Microservices;Generative+AI+%7C+LLM+Integration+%7C+Cloud" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Rishabh+Srivastava+%F0%9F%91%8B;Software+Engineer+%7C+Node.js+%7C+TypeScript;Microservices+%7C+Cloud+Architecture;Generative+AI+%7C+LLM+Integration+%7C+Agents" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -22,13 +22,13 @@
 
 ## 👨‍💻 About Me
 
-Senior backend engineer with **6+ years** of shipping distributed systems and cloud-native APIs — now deeply embedded in the Generative AI space.
+Software Engineer building distributed systems, cloud-native architectures, and AI-powered automation — professionally since **Dec 2019**.
 
-- 🏢 &nbsp;**@ Cognizant** — Driving Future State Architecture for enterprise-scale cloud migrations (AWS → GCP/Azure), including architecture design for **Coca-Cola's consumer applications**
-- 🤖 &nbsp;**Built a production Gen AI agent** at HCLTech that automates unit test generation using LLMs — cutting manual effort and improving dev cycle consistency across teams
-- 🧠 &nbsp;**Serious about AI tooling** — OpenAI, Claude & Gemini APIs, MCP servers, prompt engineering (zero-shot, few-shot, RAG) — used in real workflows, not just demos
-- ⚙️ &nbsp;**Backend at scale** — Node.js microservices, Redis + MongoDB + MySQL data layers, Docker, CI/CD, Grafana observability — from design to production
-- 💡 &nbsp;Exploring the intersection of **AI agents and backend infrastructure** — where intelligent automation meets production-grade engineering
+- 🏢 &nbsp;Currently **Sr. Associate - Projects** at **Cognizant** — driving cloud migrations (AWS → GCP/Azure) at enterprise scale
+- 🤖 &nbsp;Actively building with **Generative AI** — LLM integration, MCP servers, agentic workflows, and prompt engineering
+- 🚀 &nbsp;Led engineering at **HCLTech** — Node.js microservices, Gen AI-powered test automation, team mentorship
+- 🧠 &nbsp;Hands-on with **OpenAI, Claude, and Gemini** APIs for real-world workflow automation
+- 💬 &nbsp;Ask me about **Node.js**, **TypeScript**, **Microservices**, **LLM Integration**, or **Cloud Architecture**
 - 📫 &nbsp;Reach me at **rishabh.work68@gmail.com**
 
 ---
@@ -97,9 +97,59 @@ Senior backend engineer with **6+ years** of shipping distributed systems and cl
 
 ## 🏆 Certifications
 
-- 🎓 &nbsp;**Prompt Engineering Professional Certification** — Zero-shot, few-shot, output refinement & GenAI API usage
-- 🤖 &nbsp;**Certified Generative AI Specialist** — LLMs, embeddings, fine-tuning, RAG workflows
-- 🐙 &nbsp;**GitHub Copilot Certification** — AI-assisted code generation & development productivity
+<!-- Professional Certifications -->
+<table>
+  <tr>
+    <td>🎓</td>
+    <td><strong>Prompt Engineering Professional Certification</strong><br/>Zero-shot, few-shot, output refinement &amp; GenAI API usage</td>
+    <td><img src="https://img.shields.io/badge/Certified-✓-brightgreen?style=flat-square"/></td>
+  </tr>
+  <tr>
+    <td>🤖</td>
+    <td><strong>Certified Generative AI Specialist</strong><br/>LLMs, embeddings, fine-tuning, RAG workflows</td>
+    <td><img src="https://img.shields.io/badge/Certified-✓-brightgreen?style=flat-square"/></td>
+  </tr>
+  <tr>
+    <td>🐙</td>
+    <td><strong>GitHub Copilot Certification</strong><br/>AI-assisted code generation &amp; development productivity</td>
+    <td><img src="https://img.shields.io/badge/Certified-✓-brightgreen?style=flat-square"/></td>
+  </tr>
+</table>
+
+**Recent Udemy Completions** &nbsp;![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=flat-square&logo=udemy&logoColor=white)
+
+<table>
+  <tr>
+    <td>🧠</td>
+    <td><a href="https://ude.my/UC-d599c504-ea58-4a43-8a70-d2417f75a952"><strong>The Agentic AI Engineering Masterclass 2026</strong></a><br/>13.5 hrs · Agent design, orchestration &amp; deployment · Apr 2026</td>
+    <td><img src="https://img.shields.io/badge/Completed-Apr%202026-blue?style=flat-square"/></td>
+  </tr>
+  <tr>
+    <td>🤖</td>
+    <td><a href="https://ude.my/UC-9f0277d8-1fae-4154-9b8b-796f90039ff1"><strong>Agentic AI for Beginners</strong></a><br/>6 hrs · Foundations of agentic systems · Apr 2026</td>
+    <td><img src="https://img.shields.io/badge/Completed-Apr%202026-blue?style=flat-square"/></td>
+  </tr>
+  <tr>
+    <td>⚡</td>
+    <td><a href="https://ude.my/UC-c24ee75a-c5cc-4b73-87fd-c4aa5477ce64"><strong>Claude Code - The Practical Guide</strong></a><br/>3 hrs · AI-powered CLI development workflows · May 2026</td>
+    <td><img src="https://img.shields.io/badge/Completed-May%202026-blue?style=flat-square"/></td>
+  </tr>
+  <tr>
+    <td>🪄</td>
+    <td><a href="https://ude.my/UC-aa9af5e4-4eb8-46fb-837a-bc5759b61228"><strong>Claude, Claude Code, Claude Cowork &amp; Claude in MS Office</strong></a><br/>3 hrs · End-to-end Claude ecosystem · Apr 2026</td>
+    <td><img src="https://img.shields.io/badge/Completed-Apr%202026-blue?style=flat-square"/></td>
+  </tr>
+  <tr>
+    <td>💡</td>
+    <td><a href="https://ude.my/UC-29b86869-1138-4e3a-aa4a-e4619d538857"><strong>Claude AI: The AI Assistant You'll Actually Use</strong></a><br/>8 hrs · Practical Claude usage for engineering workflows · Apr 2026</td>
+    <td><img src="https://img.shields.io/badge/Completed-Apr%202026-blue?style=flat-square"/></td>
+  </tr>
+  <tr>
+    <td>🐙</td>
+    <td><a href="https://ude.my/UC-5f526286-d6ae-4455-913f-c08b35df020f"><strong>GitHub Copilot Beginner to Pro — AI for Coding &amp; Development</strong></a><br/>7 hrs · AI pair programming at scale · Apr 2026</td>
+    <td><img src="https://img.shields.io/badge/Completed-Apr%202026-blue?style=flat-square"/></td>
+  </tr>
+</table>
 
 ---
 
