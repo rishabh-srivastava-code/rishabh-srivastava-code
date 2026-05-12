@@ -22,13 +22,13 @@
 
 ## 👨‍💻 About Me
 
-Backend Software Engineer with **6+ years of experience** building distributed systems, scalable cloud-native architectures, and high-throughput APIs.
+Senior backend engineer with **6+ years** of shipping distributed systems and cloud-native APIs — now deeply embedded in the Generative AI space.
 
-- 🏢 &nbsp;Currently **Sr. Associate - Projects** at **Cognizant** — working on cloud migration (AWS → GCP/Azure) for enterprise clients
-- 🤖 &nbsp;Actively building with **Generative AI** — LLM integration, MCP servers, agent-based automation, and prompt engineering
-- 🚀 &nbsp;Led backend engineering at **HCLTech** — Node.js microservices, Gen AI-powered test automation, team mentorship
-- 🧠 &nbsp;Hands-on with **OpenAI, Claude, and Gemini** APIs for real-world workflow automation
-- 💬 &nbsp;Ask me about **Node.js**, **TypeScript**, **Microservices**, **LLM Integration**, or **Cloud Architecture**
+- 🏢 &nbsp;**@ Cognizant** — Driving Future State Architecture for enterprise-scale cloud migrations (AWS → GCP/Azure), including architecture design for **Coca-Cola's consumer applications**
+- 🤖 &nbsp;**Built a production Gen AI agent** at HCLTech that automates unit test generation using LLMs — cutting manual effort and improving dev cycle consistency across teams
+- 🧠 &nbsp;**Serious about AI tooling** — OpenAI, Claude & Gemini APIs, MCP servers, prompt engineering (zero-shot, few-shot, RAG) — used in real workflows, not just demos
+- ⚙️ &nbsp;**Backend at scale** — Node.js microservices, Redis + MongoDB + MySQL data layers, Docker, CI/CD, Grafana observability — from design to production
+- 💡 &nbsp;Exploring the intersection of **AI agents and backend infrastructure** — where intelligent automation meets production-grade engineering
 - 📫 &nbsp;Reach me at **rishabh.work68@gmail.com**
 
 ---
