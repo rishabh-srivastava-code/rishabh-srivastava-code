@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=rishabh-srivastava&style=for-the-badge&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=rishabh-srivastava-code&style=for-the-badge&color=blue" alt="Profile Views"/>
 </p>
 
 ---
@@ -106,13 +106,13 @@ Backend Software Engineer with **6+ years of experience** building distributed s
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishabh-srivastava&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Rishabh's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rishabh-srivastava-code&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Rishabh's GitHub Stats" height="165"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh-srivastava&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh-srivastava-code&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rishabh-srivastava&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rishabh-srivastava-code&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
