@@ -65,8 +65,6 @@ I write distributed systems by trade and talk to LLMs by passion. Node.js backen
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>&nbsp;
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 </p>
-<p>If you find my work good, consider giving it a ⭐ to show some ❤️. It helps me stay on track and be motivated.</p>
-
 
 **Frameworks & APIs**
 
@@ -106,6 +104,8 @@ I write distributed systems by trade and talk to LLMs by passion. Node.js backen
   <img src="https://img.shields.io/badge/MCP%20Server-00C4CC?style=for-the-badge" alt="MCP Server"/>
   <img src="https://img.shields.io/badge/Rasa-5A17EE?style=for-the-badge&logo=rasa&logoColor=white" alt="Rasa"/>
 </p>
+
+<p>If you find my work good, consider giving it a ⭐ to show some ❤️. It helps me stay on track and be motivated.</p>
 
 ---
 
