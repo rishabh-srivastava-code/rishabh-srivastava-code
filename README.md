@@ -64,8 +64,9 @@ I write distributed systems by trade and talk to LLMs by passion. Node.js backen
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>&nbsp;
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<p>If you find my work good, consider giving it a ⭐ to show some ❤️. It helps me stay on track and be motivated.</p>
 </p>
+<p>If you find my work good, consider giving it a ⭐ to show some ❤️. It helps me stay on track and be motivated.</p>
+
 
 **Frameworks & APIs**
 
