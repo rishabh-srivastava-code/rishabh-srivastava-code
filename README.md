@@ -1,10 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Rishabh+Srivastava+%F0%9F%91%8B;Software+Engineer+%7C+Node.js+%7C+TypeScript;Microservices+%7C+Cloud+Architecture;Generative+AI+%7C+LLM+Integration+%7C+Agents" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Rishabh+Srivastava+%F0%9F%91%8B;Backend+Engineer+%7C+Node.js+%7C+TypeScript;Microservices+%7C+Cloud+Architecture;Generative+AI+%7C+LLM+Integration+%7C+Agents" alt="Typing SVG" />
 </h1>
-
-<p align="center">
-  <strong>Sr. Associate – Projects @ Cognizant &nbsp;|&nbsp; Ex HCLTech Tech Lead &nbsp;|&nbsp; Gen AI Enthusiast</strong>
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rishabh-srivastava-72955012b" target="_blank">
@@ -22,14 +18,24 @@
 
 ## 👨‍💻 About Me
 
-Software Engineer building distributed systems, cloud-native architectures, and AI-powered automation — professionally since **Dec 2019**.
+Backend Software Engineer with **6+ years** of experience building distributed systems, scalable cloud-native architectures, and high-throughput APIs. Actively leverage AI/ML to automate workflows, reduce operational overhead, and accelerate development cycles.
 
-- 🏢 &nbsp;Currently **Sr. Associate - Projects** at **Cognizant** — driving cloud migrations (AWS → GCP/Azure) at enterprise scale
-- 🤖 &nbsp;Actively building with **Generative AI** — LLM integration, MCP servers, agentic workflows, and prompt engineering
-- 🚀 &nbsp;Led engineering at **HCLTech** — Node.js microservices, Gen AI-powered test automation, team mentorship
-- 🧠 &nbsp;Hands-on with **OpenAI, Claude, and Gemini** APIs for real-world workflow automation
+- 🚀 &nbsp;Building **microservices**, **REST/GraphQL APIs**, and **cloud-native** backends that perform at scale
+- 🤖 &nbsp;Deeply invested in **Generative AI** — LLM integration, MCP servers, agentic workflows, prompt engineering
+- 🧠 &nbsp;Hands-on with **OpenAI**, **Claude**, and **Gemini** APIs for real-world automation pipelines
+- 🔬 &nbsp;Obsessed with AI-driven SDLC — from auto test generation to intelligent agent orchestration
+- 🏗️ &nbsp;Focused on clean, observable, and production-ready code that performs reliably at scale
 - 💬 &nbsp;Ask me about **Node.js**, **TypeScript**, **Microservices**, **LLM Integration**, or **Cloud Architecture**
 - 📫 &nbsp;Reach me at **rishabh.work68@gmail.com**
+
+---
+
+## 🎯 What I'm Currently Building
+
+- 🛠️ **MCP servers** for LLM tool integration and agentic workflows
+- 🧪 **Agentic AI systems** — multi-step reasoning, tool use, and autonomous pipelines
+- 📚 **RAG architectures** and embedding-based retrieval systems
+- 🌐 Open-sourcing backend utilities and AI tooling
 
 ---
 
@@ -80,76 +86,157 @@ Software Engineer building distributed systems, cloud-native architectures, and 
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
   <img src="https://img.shields.io/badge/Prompt%20Engineering-FF6B35?style=for-the-badge" alt="Prompt Engineering"/>
   <img src="https://img.shields.io/badge/MCP%20Server-00C4CC?style=for-the-badge" alt="MCP Server"/>
+  <img src="https://img.shields.io/badge/Rasa-5A17EE?style=for-the-badge&logo=rasa&logoColor=white" alt="Rasa"/>
 </p>
 
 ---
 
-## 💼 Experience Highlights
+## 🚀 Featured Projects
 
-| Period | Role | Company |
-|--------|------|---------|
-| Jan 2026 – Present | **Sr. Associate – Projects** | Cognizant |
-| May 2022 – Jan 2026 | **Technical Lead / Senior Developer** | HCLTech |
-| May 2021 – May 2022 | **Software Engineer** | KiwiTech Pvt Ltd |
-| Dec 2019 – May 2021 | **Software Developer** | Extramarks Education |
+### 🏥 Platform X — Healthcare Engagement Platform
+> A smart wellness platform connecting users with wearables and smart devices to gamify healthy habits.
+
+- Integrates with smart devices to track **steps, hydration, and fitness metrics** in real time
+- Custom wellness challenges with **real-time leaderboards** and a gamified **Care Coins** reward system
+- Backend system design, user engagement logic, and **third-party API integrations**
+
+`Node.js` &nbsp;`REST APIs` &nbsp;`MongoDB` &nbsp;`Third-party Device APIs`
+
+---
+
+### 🤖 AI-Powered Personalized Learning Chatbot
+> Conversational AI agent that guides users through tailored learning journeys.
+
+- Built with **Python + Rasa framework** for intent classification and dialogue management
+- Personalized learning path recommendations based on user interaction history
+- Improved **user engagement and retention** through contextual, dynamic responses
+- Automated backend task handling with **AWS Lambda** for scalability
+
+`Python` &nbsp;`Rasa` &nbsp;`AWS Lambda` &nbsp;`NLP`
+
+---
+
+### 🧪 GenAI Test Automation Engine
+> LLM-powered pipeline that auto-generates unit test cases directly from source code.
+
+- Uses **large language models** to analyze code structure and generate meaningful test suites
+- Agent-based orchestration using **Python + LLM prompts** for end-to-end test workflow automation
+- Significantly reduced manual test writing effort, improving development consistency
+
+`Python` &nbsp;`LLMs` &nbsp;`Prompt Engineering` &nbsp;`Node.js` &nbsp;`Jest`
+
+---
+
+### 🔐 Secure Auth Middleware
+> Production-grade authentication and session management for distributed Node.js services.
+
+- Custom middleware for **JWT-based authentication** with refresh token rotation
+- Stateless, scalable session management across microservices
+- Clean, reusable architecture following separation-of-concerns principles
+
+`Node.js` &nbsp;`Express.js` &nbsp;`JWT` &nbsp;`TypeScript`
+
+---
+
+## 🎓 Education
+
+<table>
+  <tr>
+    <td>🏛️</td>
+    <td><strong>Master of Computer Application (MCA)</strong><br/>Galgotias University &nbsp;|&nbsp; 2017 – 2019 &nbsp;|&nbsp; Score: 75%</td>
+  </tr>
+  <tr>
+    <td>📘</td>
+    <td><strong>Bachelor of Computer Application (BCA)</strong><br/>Invertis University &nbsp;|&nbsp; 2014 – 2017 &nbsp;|&nbsp; Score: 66%</td>
+  </tr>
+</table>
 
 ---
 
 ## 🏆 Certifications
 
-<!-- Professional Certifications -->
 <table>
   <tr>
     <td>🎓</td>
     <td><strong>Prompt Engineering Professional Certification</strong><br/>Zero-shot, few-shot, output refinement &amp; GenAI API usage</td>
-    <td><img src="https://img.shields.io/badge/Certified-✓-brightgreen?style=flat-square"/></td>
+    <td><img src="https://img.shields.io/badge/Certified-%E2%9C%93-brightgreen?style=flat-square"/></td>
   </tr>
   <tr>
     <td>🤖</td>
     <td><strong>Certified Generative AI Specialist</strong><br/>LLMs, embeddings, fine-tuning, RAG workflows</td>
-    <td><img src="https://img.shields.io/badge/Certified-✓-brightgreen?style=flat-square"/></td>
+    <td><img src="https://img.shields.io/badge/Certified-%E2%9C%93-brightgreen?style=flat-square"/></td>
   </tr>
   <tr>
     <td>🐙</td>
     <td><strong>GitHub Copilot Certification</strong><br/>AI-assisted code generation &amp; development productivity</td>
-    <td><img src="https://img.shields.io/badge/Certified-✓-brightgreen?style=flat-square"/></td>
+    <td><img src="https://img.shields.io/badge/Certified-%E2%9C%93-brightgreen?style=flat-square"/></td>
   </tr>
 </table>
 
-**Recent Udemy Completions** &nbsp;![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=flat-square&logo=udemy&logoColor=white)
+**Recent Udemy Completions** &nbsp;<img src="https://img.shields.io/badge/Udemy-EC5252?style=flat-square&logo=udemy&logoColor=white"/>
 
 <table>
   <tr>
     <td>🧠</td>
-    <td><a href="https://ude.my/UC-d599c504-ea58-4a43-8a70-d2417f75a952"><strong>The Agentic AI Engineering Masterclass 2026</strong></a><br/>13.5 hrs · Agent design, orchestration &amp; deployment · Apr 2026</td>
+    <td><a href="https://ude.my/UC-d599c504-ea58-4a43-8a70-d2417f75a952"><strong>The Agentic AI Engineering Masterclass 2026</strong></a><br/>13.5 hrs · Agent design, orchestration &amp; deployment</td>
     <td><img src="https://img.shields.io/badge/Completed-Apr%202026-blue?style=flat-square"/></td>
   </tr>
   <tr>
     <td>🤖</td>
-    <td><a href="https://ude.my/UC-9f0277d8-1fae-4154-9b8b-796f90039ff1"><strong>Agentic AI for Beginners</strong></a><br/>6 hrs · Foundations of agentic systems · Apr 2026</td>
+    <td><a href="https://ude.my/UC-9f0277d8-1fae-4154-9b8b-796f90039ff1"><strong>Agentic AI for Beginners</strong></a><br/>6 hrs · Foundations of agentic systems</td>
     <td><img src="https://img.shields.io/badge/Completed-Apr%202026-blue?style=flat-square"/></td>
   </tr>
   <tr>
     <td>⚡</td>
-    <td><a href="https://ude.my/UC-c24ee75a-c5cc-4b73-87fd-c4aa5477ce64"><strong>Claude Code - The Practical Guide</strong></a><br/>3 hrs · AI-powered CLI development workflows · May 2026</td>
+    <td><a href="https://ude.my/UC-c24ee75a-c5cc-4b73-87fd-c4aa5477ce64"><strong>Claude Code - The Practical Guide</strong></a><br/>3 hrs · AI-powered CLI development workflows</td>
     <td><img src="https://img.shields.io/badge/Completed-May%202026-blue?style=flat-square"/></td>
   </tr>
   <tr>
     <td>🪄</td>
-    <td><a href="https://ude.my/UC-aa9af5e4-4eb8-46fb-837a-bc5759b61228"><strong>Claude, Claude Code, Claude Cowork &amp; Claude in MS Office</strong></a><br/>3 hrs · End-to-end Claude ecosystem · Apr 2026</td>
+    <td><a href="https://ude.my/UC-aa9af5e4-4eb8-46fb-837a-bc5759b61228"><strong>Claude, Claude Code, Claude Cowork &amp; Claude in MS Office</strong></a><br/>3 hrs · End-to-end Claude ecosystem</td>
     <td><img src="https://img.shields.io/badge/Completed-Apr%202026-blue?style=flat-square"/></td>
   </tr>
   <tr>
     <td>💡</td>
-    <td><a href="https://ude.my/UC-29b86869-1138-4e3a-aa4a-e4619d538857"><strong>Claude AI: The AI Assistant You'll Actually Use</strong></a><br/>8 hrs · Practical Claude usage for engineering workflows · Apr 2026</td>
+    <td><a href="https://ude.my/UC-29b86869-1138-4e3a-aa4a-e4619d538857"><strong>Claude AI: The AI Assistant You'll Actually Use</strong></a><br/>8 hrs · Practical Claude usage for engineering workflows</td>
     <td><img src="https://img.shields.io/badge/Completed-Apr%202026-blue?style=flat-square"/></td>
   </tr>
   <tr>
     <td>🐙</td>
-    <td><a href="https://ude.my/UC-5f526286-d6ae-4455-913f-c08b35df020f"><strong>GitHub Copilot Beginner to Pro — AI for Coding &amp; Development</strong></a><br/>7 hrs · AI pair programming at scale · Apr 2026</td>
+    <td><a href="https://ude.my/UC-5f526286-d6ae-4455-913f-c08b35df020f"><strong>GitHub Copilot Beginner to Pro — AI for Coding &amp; Development</strong></a><br/>7 hrs · AI pair programming at scale</td>
     <td><img src="https://img.shields.io/badge/Completed-Apr%202026-blue?style=flat-square"/></td>
   </tr>
 </table>
+
+---
+
+## 🧠 Rishabh.exe — A Profiling Report
+
+> *What you get when you synthesize 6+ years of engineering, an MCA, and a deep AI rabbit hole:*
+
+```json
+{
+  "daily_drivers":    ["Node.js", "TypeScript", "LLM APIs", "terminal"],
+  "debugging_style":  "console.log -> structured logs -> Grafana dashboard -> enlightenment",
+  "ai_philosophy":    "If it can be automated, it should be. And probably already is.",
+  "learning_mode":    "always ON — currently: agentic systems, RAG, MCP protocol",
+  "origin":           "Lucknow, India — city of Nawabs, biryani & surprisingly good engineers",
+  "superpower":       "Making things talk to each other (APIs, services, LLMs, all of it)",
+  "known_weakness":   "Starting side projects that connect random AI tools together",
+  "fun_fact":         "MCA grad who now spends more time prompting LLMs than writing SQL"
+}
+```
+
+---
+
+## 💬 Talk to Me About
+
+💻 **Gadgets** — always eyeing the next piece of tech &nbsp;|&nbsp;
+😂 **Memes** — desi, global, dark, wholesome, all welcome &nbsp;|&nbsp;
+🎬 **Indian movies & web series** — Mirzapur to Sacred Games to whatever dropped this week &nbsp;|&nbsp;
+🤖 **What the latest AI model can (and can't) do** &nbsp;|&nbsp;
+🍛 **Food** — especially anything from UP &nbsp;|&nbsp;
+💡 **Wild ideas** — the 2am "what if we built..." kind
 
 ---
 
@@ -167,6 +254,5 @@ Software Engineer building distributed systems, cloud-native architectures, and 
 
 ---
 
-*"First, solve the problem. Then, write the code."*
-
-**If you find my work useful, a ⭐ goes a long way — thanks!**
+<p align="center"><i>"First, solve the problem. Then, write the code."</i></p>
+<p align="center"><strong>If you find my work useful, a ⭐ goes a long way — thanks!</strong></p>
