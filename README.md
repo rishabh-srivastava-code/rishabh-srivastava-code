@@ -26,9 +26,21 @@ I write distributed systems by trade and talk to LLMs by passion. Node.js backen
 - 🔬 &nbsp;Obsessed with AI-driven SDLC — from auto test generation to intelligent agent orchestration
 - 🏗️ &nbsp;Focused on clean, observable, and production-ready code that performs reliably at scale
 - 💬 &nbsp;Ask me about **Node.js**, **TypeScript**, **Microservices**, **LLM Integration**, or **Cloud Architecture**
-- 🎓 &nbsp;MCA · Galgotias University &nbsp;|&nbsp; BCA · Invertis University
 - 📫 &nbsp;Reach me at **rishabh.work68@gmail.com**
 
+---
+
+---
+
+## 💬 Talk to Me About
+
+💻 **Gadgets & Tech** — always eyeing the next drop · Ray-Ban Meta glasses, AI wearables, on-device AI chips, whatever just launched at CES &nbsp;|&nbsp;
+🎬 **Indian movies & web series** — Mirzapur to Sacred Games to whatever dropped &nbsp;|&nbsp;
+🤖 **What the latest AI model can (and can't) do** — benchmarks, vibes, real-world gaps &nbsp;|&nbsp;
+🍛 **Food** — especially Lucknow ke khane:
+   Tunday Kebabs · Basket Chaat · Kulcha Nihari · Malai Makkhan ·
+   Khasta Kachori · Kulfi Falooda · Sheermal &nbsp;|&nbsp;
+💡 **Wild ideas** — the 2am "what if we built..." kind
 ---
 
 ## 🎯 What I'm Currently Building
@@ -128,19 +140,6 @@ I write distributed systems by trade and talk to LLMs by passion. Node.js backen
 
 `Python` `LLMs` `Prompt Engineering` `Node.js` `Jest`
 
----
-
-### 🔐 Secure Auth Middleware
-> Production-grade authentication and session management for distributed Node.js services.
-
-- Custom middleware for **JWT-based authentication** with refresh token rotation
-- Stateless, scalable session management across microservices
-- Clean, reusable architecture following separation-of-concerns principles
-
-`Node.js` `Express.js` `JWT` `TypeScript`
-
----
-
 ## 🏆 Certifications
 
 <table>
@@ -214,19 +213,6 @@ I write distributed systems by trade and talk to LLMs by passion. Node.js backen
   "fun_fact":         "MCA grad who now spends more time prompting LLMs than writing SQL"
 }
 ```
-
----
-
-## 💬 Talk to Me About
-
-💻 **Gadgets** — always eyeing the next piece of tech &nbsp;|&nbsp;
-😂 **Memes** — desi, global, dark, wholesome, all welcome &nbsp;|&nbsp;
-🎬 **Indian movies & web series** — Mirzapur to Sacred Games to whatever dropped this week &nbsp;|&nbsp;
-🤖 **What the latest AI model can (and can't) do** &nbsp;|&nbsp;
-🍛 **Food** — especially anything from UP &nbsp;|&nbsp;
-💡 **Wild ideas** — the 2am "what if we built..." kind
-
----
 
 ## 📊 GitHub Stats
 
