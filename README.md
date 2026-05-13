@@ -34,13 +34,14 @@ I write distributed systems by trade and talk to LLMs by passion. Node.js backen
 
 ## 💬 Talk to Me About
 
-💻 **Gadgets & Tech** — always eyeing the next drop · Ray-Ban Meta glasses, AI wearables, on-device AI chips, whatever just launched at CES &nbsp;|&nbsp;
-🎬 **Indian movies & web series** — Mirzapur to Sacred Games to whatever dropped &nbsp;|&nbsp;
-🤖 **What the latest AI model can (and can't) do** — benchmarks, vibes, real-world gaps &nbsp;|&nbsp;
-🍛 **Food** — especially Lucknow ke khane:
+- 💻 **Gadgets & Tech** — always eyeing the next drop · Ray-Ban Meta glasses, AI wearables, on-device AI chips, whatever just launched at CES &nbsp;|&nbsp;
+- 🎬 **Indian movies & web series** — Mirzapur to Sacred Games to whatever dropped &nbsp;|&nbsp;
+- 🤖 **What the latest AI model can (and can't) do** — benchmarks, vibes, real-world gaps &nbsp;|&nbsp;
+- 🍛 **Food** — especially Lucknow ke khane:
    Tunday Kebabs · Basket Chaat · Kulcha Nihari · Malai Makkhan ·
    Khasta Kachori · Kulfi Falooda · Sheermal &nbsp;|&nbsp;
-💡 **Wild ideas** — the 2am "what if we built..." kind
+- 💡 **Wild ideas** — the 2am "what if we built..." kind
+  
 ---
 
 ## 🎯 What I'm Currently Building
