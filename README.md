@@ -37,7 +37,7 @@ I write distributed systems by trade and talk to LLMs by passion. Node.js backen
 - 🧪 **Agentic AI systems** — multi-step reasoning, tool use, and autonomous pipelines
 - 📚 **RAG architectures** and embedding-based retrieval systems
 - 🗄️ **Vectorless knowledge bases** — LLM-maintained persistent wikis using structured index files, no embeddings needed
-- 🧬 **Learning to effectively use LLMs** — following [Karpathy's LLM-Wiki pattern](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f): building compounding knowledge that improves over time instead of one-shot retrieval
+- 🧠 **Building a personal knowledge base using [Karpathy's LLM-Wiki pattern](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)** Instead of one-shot RAG retrieval, the LLM maintains a persistent, interlinked wiki that compounds with every source — knowledge builds up rather than being re-derived each time
 - 🌐 Open-sourcing backend utilities and AI tooling
 
 ---
