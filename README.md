@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-Backend Software Engineer with **6+ years** of experience building distributed systems, scalable cloud-native architectures, and high-throughput APIs. Actively leverage AI/ML to automate workflows, reduce operational overhead, and accelerate development cycles.
+I write distributed systems by trade and talk to LLMs by passion. Node.js backend engineer who went deep on GenAI, built MCP servers before they were cool, and is currently figuring out how to make AI genuinely useful — not just impressive.
 
 - 🚀 &nbsp;Building **microservices**, **REST/GraphQL APIs**, and **cloud-native** backends that perform at scale
 - 🤖 &nbsp;Deeply invested in **Generative AI** — LLM integration, MCP servers, agentic workflows, prompt engineering
@@ -26,6 +26,7 @@ Backend Software Engineer with **6+ years** of experience building distributed s
 - 🔬 &nbsp;Obsessed with AI-driven SDLC — from auto test generation to intelligent agent orchestration
 - 🏗️ &nbsp;Focused on clean, observable, and production-ready code that performs reliably at scale
 - 💬 &nbsp;Ask me about **Node.js**, **TypeScript**, **Microservices**, **LLM Integration**, or **Cloud Architecture**
+- 🎓 &nbsp;MCA · Galgotias University &nbsp;|&nbsp; BCA · Invertis University
 - 📫 &nbsp;Reach me at **rishabh.work68@gmail.com**
 
 ---
@@ -35,6 +36,8 @@ Backend Software Engineer with **6+ years** of experience building distributed s
 - 🛠️ **MCP servers** for LLM tool integration and agentic workflows
 - 🧪 **Agentic AI systems** — multi-step reasoning, tool use, and autonomous pipelines
 - 📚 **RAG architectures** and embedding-based retrieval systems
+- 🗄️ **Vectorless knowledge bases** — LLM-maintained persistent wikis using structured index files, no embeddings needed
+- 🧬 **Learning to effectively use LLMs** — following [Karpathy's LLM-Wiki pattern](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f): building compounding knowledge that improves over time instead of one-shot retrieval
 - 🌐 Open-sourcing backend utilities and AI tooling
 
 ---
@@ -100,7 +103,7 @@ Backend Software Engineer with **6+ years** of experience building distributed s
 - Custom wellness challenges with **real-time leaderboards** and a gamified **Care Coins** reward system
 - Backend system design, user engagement logic, and **third-party API integrations**
 
-`Node.js` &nbsp;`REST APIs` &nbsp;`MongoDB` &nbsp;`Third-party Device APIs`
+`Node.js` `REST APIs` `MongoDB` `Third-party Device APIs`
 
 ---
 
@@ -112,7 +115,7 @@ Backend Software Engineer with **6+ years** of experience building distributed s
 - Improved **user engagement and retention** through contextual, dynamic responses
 - Automated backend task handling with **AWS Lambda** for scalability
 
-`Python` &nbsp;`Rasa` &nbsp;`AWS Lambda` &nbsp;`NLP`
+`Python` `Rasa` `AWS Lambda` `NLP`
 
 ---
 
@@ -123,7 +126,7 @@ Backend Software Engineer with **6+ years** of experience building distributed s
 - Agent-based orchestration using **Python + LLM prompts** for end-to-end test workflow automation
 - Significantly reduced manual test writing effort, improving development consistency
 
-`Python` &nbsp;`LLMs` &nbsp;`Prompt Engineering` &nbsp;`Node.js` &nbsp;`Jest`
+`Python` `LLMs` `Prompt Engineering` `Node.js` `Jest`
 
 ---
 
@@ -134,22 +137,7 @@ Backend Software Engineer with **6+ years** of experience building distributed s
 - Stateless, scalable session management across microservices
 - Clean, reusable architecture following separation-of-concerns principles
 
-`Node.js` &nbsp;`Express.js` &nbsp;`JWT` &nbsp;`TypeScript`
-
----
-
-## 🎓 Education
-
-<table>
-  <tr>
-    <td>🏛️</td>
-    <td><strong>Master of Computer Application (MCA)</strong><br/>Galgotias University &nbsp;|&nbsp; 2017 – 2019 &nbsp;|&nbsp; Score: 75%</td>
-  </tr>
-  <tr>
-    <td>📘</td>
-    <td><strong>Bachelor of Computer Application (BCA)</strong><br/>Invertis University &nbsp;|&nbsp; 2014 – 2017 &nbsp;|&nbsp; Score: 66%</td>
-  </tr>
-</table>
+`Node.js` `Express.js` `JWT` `TypeScript`
 
 ---
 
